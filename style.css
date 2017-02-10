@@ -1,0 +1,97 @@
+body {
+  background-color: dodgerblue;
+  font-size: 25px;
+  padding-top: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin: 0;
+  color: black;
+  font-family: 'Roboto', helvetica, sans-serif;
+}
+
+.logo{
+	height: 35px;
+	padding-left:120px;
+	padding-bottom: 30px;
+}
+
+fieldset{
+	border:0;
+}
+
+.container{
+	color:black;
+	background-color: white;
+	display: block;
+	width:120%;
+}
+
+.demo-form{
+	height:100px;
+	width: 350px;
+	padding-left: 500px;
+	padding-top: 250px;
+}
+
+.demo-form label{
+	font-size: 16px;
+}
+
+.demo-form input placeholder{
+	font-size:20px;
+}
+
+h1{
+	padding-left: 120px; 
+	font-size: 34px;                                                                                                                                        
+}
+
+#email{
+	margin-top:10px;
+	width:320px;
+	padding:15px;
+	border:2px solid gainsboro;
+	margin-bottom: 10px;
+}
+
+#password{
+	margin-top:10px;
+	width:320px;
+	padding:15px;
+	border:2px solid gainsboro;
+}
+
+.demo-form button{
+	height: 55px;
+	width:355px;
+	margin-top:20px;
+	padding: 15px;
+	border-radius: 2px;
+	color:white;
+	font-size: 20px;
+	background-color: limegreen;
+}
+
+button:hover{
+	background-color: green;
+}
+
+a{
+	font-size: 14px;
+	color: gray;
+	padding-left: 120px;
+}
+
+li{
+	display: inline;
+	color:white;
+	font-size:14px;
+	padding-left: 20px;
+}
+
+.login{
+	font-size: 14px;
+	display: inline;
+	color: white;
+	padding-left: 40px;
+}
